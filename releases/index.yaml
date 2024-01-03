@@ -1,0 +1,31 @@
+apiVersion: v1
+entries:
+  mend-renovate-ce:
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2024-01-04T00:35:10.0514847+10:00"
+    description: Mend Renovate Community Edition
+    digest: 1d20882dfd1e18d3d8ab0c54b12c0ac7b27da0b0e112ad0870987922566ef64b
+    home: https://github.com/mend/renovate-ce-ee
+    icon: https://app.renovatebot.com/images/logo.png
+    name: mend-renovate-ce
+    sources:
+    - https://github.com/renovatebot/renovate
+    urls:
+    - https://justo-mend.github.io/renovate-ce-ee/mend-renovate-ce-6.7.0.tgz
+    version: 6.7.0
+  mend-renovate-ee:
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2024-01-04T00:35:10.0547675+10:00"
+    description: Mend Renovate Enterprise Edition
+    digest: 987c5fd9c27c4fa11968af626e0e8a3aebd26bcb2fab85b17c110cabeca1fe22
+    home: https://github.com/mend/renovate-ce-ee
+    icon: https://app.renovatebot.com/images/logo.png
+    name: mend-renovate-ee
+    sources:
+    - https://github.com/renovatebot/renovate
+    urls:
+    - https://justo-mend.github.io/renovate-ce-ee/mend-renovate-ee-0.3.0.tgz
+    version: 0.3.0
+generated: "2024-01-04T00:35:10.048384+10:00"
